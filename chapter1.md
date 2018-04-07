@@ -56,6 +56,7 @@ this is a simple hint for pure mcq
 - 4
 - 5
 - [6]
+- 7
 
 `@feedbacks`
 - no
@@ -64,6 +65,7 @@ this is a simple hint for pure mcq
 - no
 - no
 - yes
+- no
 
 
 
