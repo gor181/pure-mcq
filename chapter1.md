@@ -1,6 +1,8 @@
 ---
 title: Test
-description: Test
+description: >-
+  Test
+
 
 ---
 ## Sample exercise
@@ -10,30 +12,58 @@ type: NormalExercise
 lang: python
 xp: 100
 skills: 2
-key: f1ffd79abe
+key: fe234cd14b
 ```
 
 
-`@instructions`
+
+
+
+
+
+
+
+
+
+
+
+
+---
+## pure mcq
+
+```yaml
+type: PureMultipleChoiceExercise
+
+xp: 
+
+key: 6c06642b63
+```
+
+assignnemt for pure mcq
+
 
 `@hint`
+this is a simple hint for pure mcq
 
-`@pre_exercise_code`
-```{python}
 
-```
 
-`@sample_code`
-```{python}
 
-```
 
-`@solution`
-```{python}
+`@possible_answers`
+- 1
+- 2
+- 3
+- 4
+- 5
+- [6]
 
-```
+`@feedbacks`
+- no
+- no
+- no
+- no
+- no
+- yes
 
-`@sct`
-```{python}
 
-```
+
